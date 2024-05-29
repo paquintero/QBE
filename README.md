@@ -1,5 +1,3 @@
-# README
-
 ## How to Run the API
 
 1. **Setting up Virtual Environment:**
